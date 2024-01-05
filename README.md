@@ -5,8 +5,6 @@ Versatile and passionate software engineer specializing in both frontend and bac
 - 👀 I’m interested in AI and Web Development
 - 💞️ I’m looking to collaborate on Web Development Project
 
-Versatile and passionate software engineer specializing in both frontend and backend development. With a solid foundation in frontend technologies such as React.js, Next.js, and TailwindCSS, I design and implement user interfaces that prioritize seamless and intuitive user experiences. Simultaneously, my expertise extends to the backend, where I architect and build robust server-side logic using languages like Golang or PHP.
-
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=26470350" target="_blank" style="display: block" align="center">
